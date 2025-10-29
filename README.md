@@ -61,11 +61,11 @@ while True:
 ```
 ## OUTPUT
 ## Server
-<img width="916" height="259" alt="Screenshot 2025-09-23 084755" src="https://github.com/user-attachments/assets/feda5607-d3b6-4c83-8e89-6bc450fa4858" />
-
+<img width="764" height="132" alt="ex02acn" src="https://github.com/user-attachments/assets/4f98758a-9d89-4378-973e-f18222130e4b" />
 
 ## Client
-<img width="925" height="266" alt="Screenshot 2025-09-23 084917" src="https://github.com/user-attachments/assets/a3aedd9d-0509-4e07-a5d2-2be18e98ced2" />
+<img width="760" height="162" alt="ex02acn2" src="https://github.com/user-attachments/assets/5b865529-046c-4400-a607-818515dded59" />
+
 
 
 ## RESULT
